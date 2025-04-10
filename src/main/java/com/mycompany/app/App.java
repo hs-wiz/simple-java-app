@@ -10,7 +10,7 @@ public class App {
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println("Modified for github scm from local project");
+        System.out.println("Modified for github scm from local project 2");
     }
 
     public String getMessage() {
