@@ -10,7 +10,7 @@ public class App {
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println("Some changes for pipeline");
+        System.out.println("Some changes for pipeline or not");
     }
 
     public String getMessage() {
