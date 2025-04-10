@@ -10,7 +10,7 @@ public class App {
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println("Some changes for pipeline or not - test jenkinsfile 4");
+        System.out.println("Some changes for pipeline or not - test jenkinsfile 5");
     }
 
     public String getMessage() {
